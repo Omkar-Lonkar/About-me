@@ -72,9 +72,9 @@ English, Hindi, Marathi, 🇩🇪 German (Beginner)
 
 ## 📊 GitHub Stats
 
-![](https://github-readme-stats.vercel.app/api?username=lonkaromkar15&theme=gruvbox&hide_border=false&include_all_commits=true&count_private=true)  
-![](https://github-readme-streak-stats.herokuapp.com/?user=lonkaromkar15&theme=gruvbox&hide_border=false)  
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=lonkaromkar15&theme=gruvbox&layout=compact&hide_border=false)
+![](https://github-readme-stats.vercel.app/api?username=Omkar-Lonkar&theme=gruvbox&hide_border=false&include_all_commits=true&count_private=true)  
+![](https://github-readme-streak-stats.herokuapp.com/?user=Omkar-Lonkar&theme=gruvbox&hide_border=false)  
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Omkar-Lonkar&theme=gruvbox&layout=compact&hide_border=false)
 
 ---
 
