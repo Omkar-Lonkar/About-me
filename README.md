@@ -9,8 +9,15 @@
 ---
 
 ## 🌐 Socials  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/omkar-lonkar-6b9785254)  
-[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:lonkaromkar15@gmail.com)
+<a href="https://www.linkedin.com/in/omkar-lonkar-6b9785254">
+  <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" alt="LinkedIn"/>
+</a><br>
+<a href="mailto:lonkaromkar15@gmail.com">
+  <img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white" alt="Email"/>
+</a>
+
+</td>
+<td>
 
 ---
 
