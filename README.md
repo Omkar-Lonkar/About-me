@@ -25,11 +25,7 @@
 ![OpenCV](https://img.shields.io/badge/OpenCV-27338e?style=for-the-badge&logo=opencv&logoColor=white)
 ![YOLO](https://img.shields.io/badge/YOLO-FFAD00?style=for-the-badge&logoColor=white)
 
-</td>
-</tr>
-</table>
-
---
+---
 
 ## 🧠 Projects
 
@@ -46,6 +42,16 @@
 - **Buzz Wire Game**  
   ➤ Arduino  
   ➤ Built entire hardware-based game with alarm detection when touching wire
+
+---
+
+## 🧠 Research & Publications
+
+📄 **Smart Traffic Light Control System**  
+*IJSREM, vol. 8, no. 11, Nov. 2024*  
+[DOI: 10.55041/IJSREM39220](https://doi.org/10.55041/IJSREM39220)  
+Developed an intelligent traffic signal system using YOLO and OpenCV for real-time vehicle detection.  
+Optimized green light distribution based on traffic density to reduce wait times and congestion.
 
 ---
 
