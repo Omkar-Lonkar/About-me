@@ -3,9 +3,6 @@
 🎓 Computer Science Engineering Student (AI & Analytics) at MIT-ADT University, Pune  
 
 📍 Pune, MH, India  
-📧 [lonkaromkar15@gmail.com](mailto:lonkaromkar15@gmail.com)  
-🔗 [LinkedIn](https://www.linkedin.com/in/omkar-lonkar-6b9785254)
-
 ---
 
 ## 🌐 Socials  
