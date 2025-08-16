@@ -6,7 +6,7 @@
 ---
 
 ## 🌐 Socials  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/omkar-lonkar-6b9785254)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](www.linkedin.com/in/omkar-lonkar4)
 [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:lonkaromkar15@gmail.com)
 [![LeetCode](https://img.shields.io/badge/LeetCode-%23FFA116.svg?style=flat&logo=leetcode&logoColor=black)](https://leetcode.com/rCbAoIChz7)
 
